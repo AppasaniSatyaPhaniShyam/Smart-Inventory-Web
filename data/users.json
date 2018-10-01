@@ -1,0 +1,11 @@
+ {
+ "data": [
+    {
+      "email": "admin@nwmissouri.edu",
+      "password": "xxx",
+      "profile": {
+        "name": "Admin"
+      }
+    }
+  ]
+ }
